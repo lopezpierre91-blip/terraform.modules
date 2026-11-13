@@ -1,0 +1,1 @@
+bucket_name = "terraform-0511bucket"
